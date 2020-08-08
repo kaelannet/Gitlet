@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+This is the content of a:
+aaaaaaaa=======
+This is the content of b:
+bbbbbbb>>>>>>>

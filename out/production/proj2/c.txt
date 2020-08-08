@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+This is the content of a:
+<<<<<<< HEAD
+aaaaaaaa
+=======
+This is the content of b:
+bbbbbbb
+>>>>>>>
+=======
+aaaaaaaa=======
+This is the content of b:
+bbbbbbb>>>>>>>
+>>>>>>> e4c206cc31e63d88663ecf6e0940f83763d09ad3
